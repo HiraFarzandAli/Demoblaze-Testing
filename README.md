@@ -17,3 +17,4 @@ This repository contains test plans, test cases, and bugs tracking for testing t
    - [User Interface (UI)](#user-interface-test-cases)
    - [Functional Test Cases](#functional-test-cases)
    - [Usability](#Usability-test-cases)
+   - [Performance](#performance-test-cases)
