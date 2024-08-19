@@ -11,10 +11,16 @@ This repository contains test plans, test cases, and bugs tracking for testing t
    - [Test Environment](#test-environment)
    - [Test Tools](#test-tools)
    - [Roles and Responsibilities](#roles-and-responsibilities)
-   - 
+     
 3. [Test Cases](#test-cases)
 
    - [User Interface (UI)](#user-interface-test-cases)
    - [Functional Test Cases](#functional-test-cases)
    - [Usability](#Usability-test-cases)
    - [Performance](#performance-test-cases)
+     
+4. [Execution & Reporting](#execution-&-reporting)
+   
+   - [Test Execution](#test-execution)
+   - [Bug Reporting](#bug-reporting)
+   - [Test Completion](#test-completion)
